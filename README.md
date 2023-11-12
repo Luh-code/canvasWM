@@ -1,6 +1,6 @@
 # CanvasWM
 
-$${\color{red}Development \space Juse \space Begun \space - \space Not \space Yet \space Usable}$$
+$${\color{red}Development \space Just \space Begun \space - \space Not \space Usable \space Yet}$$
 
 CanvasWM is an experimental hybrid Wayland compositor built on wlroots and tinywm. CanvasWM has three different modes of operation:
     1. Floating - Acts as a normal floating window manager (e.g. Plasma, Cinnamon)
